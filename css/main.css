@@ -1,0 +1,197 @@
+*{
+	font-family: "Open Sans"
+}
+
+.logo-eco{
+	background: url(../img/ecomunidad-logo.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 100px;
+}
+
+.nav-eco{
+	padding-top: 40px;
+}
+
+.nav-eco a{
+	color: #8C8186;
+	margin: 0px 20px;
+	padding-right: 15px;
+
+}
+
+.line-vertical{
+	display: inline;
+	color: #8C8186;
+}
+
+.seed{
+	background: url(../img/semilla.jpg);
+	background-size: cover;
+	height: 400px;
+	background-position: center;
+}
+
+.text-descr{
+	background-color: #F0F0F0;
+}
+
+.text-eco p{
+	margin: 70px 0px;
+	padding: 0px 150px;
+}
+
+.mision-vision{
+	padding: 50px 0px;
+}
+
+.mision-vision img{
+	width: 30%;
+}
+
+.mision-vision h2{
+	margin: 10px 0px;
+}
+
+.mision-vision p{
+	font-size: 14px;
+	margin: 0px 30px;
+}
+
+.methodology{
+	background: url(../img/metodo.JPG) left top no-repeat, url(../img/fondo.jpg) right top no-repeat;
+	background-size: 50%;
+	height: 400px;
+}
+
+.right-side{
+	padding-top: 80px;
+}
+
+.right-side img{
+	width: 10%;
+	margin-bottom: 20px;
+}
+
+.right-side p{
+	margin-left:30px;
+	font-size: 14px;
+	margin-top: 20px;
+}
+
+.education{
+	background: url(../img/iconos/servicios-icon/educacion.png);
+}
+
+.mitigation{
+	background: url(../img/iconos/servicios-icon/mitigacion.png);
+}
+
+.welfare{
+	background: url(../img/iconos/servicios-icon/bienestar.png);
+}
+
+.security{
+	background: url(../img/iconos/servicios-icon/seguridad-icon.png);
+}
+
+.water{
+	background: url(../img/iconos/servicios-icon/manejo-de-agua.png);
+}
+
+.agriculture{
+	background: url(../img/iconos/servicios-icon/agricultura-icon.png);
+}
+
+.background{
+	width: 100%;
+	height: 140px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.service{
+	margin: 30px 0px;
+}
+
+.service-title{
+	margin-top: 60px;
+	margin-bottom: 30px;
+}
+
+.service-title p{
+	margin: 20px 0px;	
+	padding: 0px 40px;
+}
+
+.service h3{
+	margin: 30px 0px;
+	color: #576634;
+	padding: 0px 60px;
+	font-size: 110%;
+}
+
+.service p{
+	font-size: 14px;
+	padding: 0px 50px;
+}
+
+.p-move{
+	margin-top: 50px;
+}
+
+.proyect{
+	background-color: #4E6F2C;
+}
+
+.one-of-two{
+	background: url(../img/fotos/img-0352.JPG);
+}
+
+.two-of-two{
+	background: url(../img/fotos/img-9246.jpg);
+}
+
+.proyect-image{
+	background-size: 100%;
+	height: 300px;
+	margin-bottom: 30px;
+}
+
+.proyect-title{
+	margin: 50px 0px;
+}
+
+.proyect-title p{
+	font-size: 150%;
+	color: white;
+}
+
+.one-side h2, h3, p{
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.one-side h3{
+	opacity: 0.9;
+}
+
+.one-side p{
+	opacity: 0.8;
+	font-size: 14px;
+}
+
+.final{
+	padding-bottom: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
